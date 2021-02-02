@@ -19,3 +19,10 @@
 - Python
 - Text file
 - Document
+
+# Installation
+- Clone this repository
+- go to the folder
+- give permission, command: chmod +x install.sh
+- run file, command: ./install.sh
+- Done!
